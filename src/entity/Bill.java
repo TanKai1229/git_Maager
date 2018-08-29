@@ -3,7 +3,7 @@ package entity;
 import java.sql.Date;
 
 public class Bill {
-	public int id;//主键
+	public int id;//id主键
     public String code;//订单编号
     public String name;//商品名称
     public String supplier;//供应商
